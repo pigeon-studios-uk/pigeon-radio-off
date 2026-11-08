@@ -5,7 +5,7 @@ lua54 'yes'
 name 'pigeon-radio-off'
 author 'Pigeon Studios'
 description 'Vehicles start with the radio off, some vehicles have no radio at all, and stations you choose are taken off the wheel.'
-version '0.1.0'
+version '1.0.0'
 repository 'https://github.com/pigeon-studios-uk/pigeon-radio-off'
 
 -- Pigeon Studios version registry entry, read by server/version_check.lua.
